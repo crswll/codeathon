@@ -1,2 +1,0 @@
-# codeathon
-Created with CodeSandbox
